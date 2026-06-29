@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://www.libertadvzla.com">Sitio</a>
   &nbsp; <a href="https://www.libertadvzla.com/news">Noticias</a>
+  &nbsp; <a href="https://www.libertadvzla.com/victims">Víctimas</a>
   &nbsp; <a href="https://www.libertadvzla.com/sos">SOS</a>
   &nbsp; <a href="https://www.libertadvzla.com/reportar">Reportar</a>
 </p>
@@ -40,6 +41,12 @@ Somos un equipo pequeño y en crecimiento. No prometemos revisar cada nota antes
 - Protección contra spam y validación en el servidor.
 - Para emergencias hay un reporte con ubicación (GPS) y fotos, pensado para el SOS.
 
+## Víctimas
+
+- Registro público, actualizable y auditable de víctimas: personas detenidas por motivos políticos y personas desaparecidas, con su estatus (detenida, desaparecida o liberada), lugar y fecha cuando se conocen, y observaciones.
+- Búsqueda por nombre o cédula y filtros por estatus y por estado. La cédula de adultos es pública; la de menores se enmascara según la ley.
+- El equipo acreditado actualiza los registros y cada cambio queda registrado.
+
 ## SOS Venezuela
 
 Herramienta de emergencia, activa desde el 24 de junio de 2026 por el terremoto. Reúne:
@@ -63,12 +70,12 @@ Herramienta de emergencia, activa desde el 24 de junio de 2026 por el terremoto.
 
 ## El equipo por dentro
 
-- Un panel para el equipo: publicar y editar notas, revisar y agrupar reportes, moderar comentarios y aportes, revisar el aprendizaje y administrar las fuentes de noticias.
+- Un panel para el equipo: publicar y editar notas, revisar y agrupar reportes, llevar el registro de víctimas, moderar comentarios y aportes, revisar el aprendizaje y administrar las fuentes de noticias.
 - Cada acción importante queda en un registro de auditoría: quién, qué y cuándo.
 
 ## Privacidad
 
-La identidad de quien reporta se guarda separada del contenido y no se publica. Las fotos se suben sin datos de ubicación. No hay rankings ni listas públicas de actividad. Guardamos la menor cantidad posible de datos.
+La identidad de quien reporta se guarda separada del contenido y no se publica. Las fotos se suben sin datos de ubicación. La cédula de adultos es pública en el registro de víctimas; la de menores se enmascara. No hay rankings ni listas públicas de actividad. Guardamos la menor cantidad posible de datos.
 
 ## Cómo está hecho
 
@@ -107,4 +114,4 @@ El código vive en un repositorio privado y el acceso es por invitación. Las fo
 
 Libertad VZLA is a citizen-journalism outlet for Venezuela. Citizens report what happens in their area and we publish news with state and municipality segmentation. We are a small, growing team and we do not claim to verify every article before publishing: the team checks what it can and uses AI to process volume, while citizen reports do go through the team's review before becoming an article.
 
-The platform includes regional news with leveled community comments and audio reading; SOS Venezuela, an emergency tool (active since the June 24, 2026 earthquake) for searching and reporting missing people, cross-checking with Localizados Venezuela, real-time USGS earthquake alerts, a hospital finder, offline first-aid guides, maps, and legal, psychological and medical orientation; citizen reporting with the reporter's identity kept separate; and a citizen panel for learning and participation, private by default. The site is public at libertadvzla.com; the source code is private and access is by invitation. Contact: contacto@libertadvzla.com.
+The platform includes regional news with leveled community comments and audio reading; Víctimas, a public and auditable registry of people detained on political grounds and the disappeared; SOS Venezuela, an emergency tool (active since the June 24, 2026 earthquake) for searching and reporting missing people, cross-checking with Localizados Venezuela, real-time USGS earthquake alerts, a hospital finder, offline first-aid guides, maps, and legal, psychological and medical orientation; citizen reporting with the reporter's identity kept separate; and a citizen panel for learning and participation, private by default. The site is public at libertadvzla.com; the source code is private and access is by invitation. Contact: contacto@libertadvzla.com.
